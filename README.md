@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxwizardth
 - 👀 I’m interested in Group work, Project or any internship to gain experience.
-- 🌱 I have learn HTML,CSS, and Python
+- 🌱 I have learned HTML,CSS, JavaScript, jQuery, bootstrap and Python
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me - chat me up on [WhatsApp](https://wa.me/2349153036869?text=Hey!%%20Maxwizard%20l=I%20need%20your%20assistance%20from%20dev) or [Mail](mailto:aoladejo382@stu.ui.edu.ng?Subject=Hey!%%20Maxwizard%20l=I%20need%20your%20assistance%20from%20dev)
