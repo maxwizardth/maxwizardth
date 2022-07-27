@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxwizardth
-- 👀 I’m interested in Group work, Project or any internship to gain experience.
+- 👀 I’m interested in Group work, Project or any open source. I am an educator too hence you can hire me if you need developer tutor.
 - 🌱 I have learned HTML,CSS, JavaScript, jQuery, bootstrap and Python
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking forward to collaborating with anyone
